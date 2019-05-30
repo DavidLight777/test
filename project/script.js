@@ -1,4 +1,4 @@
 'use strict';
-let ask = confirm("Are you robot?");
-console.log(ask);
+let money = promt("Ваш буджет на месяц?" , "");
 
+console.log(money);
